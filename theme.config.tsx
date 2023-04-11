@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Açık Akademi</span>,
+  logo: <span>Açık Eğitim</span>,
   project: {
     link: 'https://github.com/anilyagiz',
   },
@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/anilyagiz',
   footer: {
-    text: 'Açık Akademi, eğitimde eşitlik sağlamak amacıyla kurulmuş kar amacı gütmeyen bir platformdur. ',
+    text: 'Açık Eğitim, eğitimde eşitlik sağlamak amacıyla kurulmuş kar amacı gütmeyen bir platformdur. ',
   },
 }
 
